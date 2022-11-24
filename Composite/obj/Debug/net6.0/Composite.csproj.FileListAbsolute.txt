@@ -1,0 +1,15 @@
+C:\_playground\DesignPatterns\Composite\bin\Debug\net6.0\Composite.exe
+C:\_playground\DesignPatterns\Composite\bin\Debug\net6.0\Composite.deps.json
+C:\_playground\DesignPatterns\Composite\bin\Debug\net6.0\Composite.runtimeconfig.json
+C:\_playground\DesignPatterns\Composite\bin\Debug\net6.0\Composite.dll
+C:\_playground\DesignPatterns\Composite\bin\Debug\net6.0\Composite.pdb
+C:\_playground\DesignPatterns\Composite\obj\Debug\net6.0\Composite.csproj.AssemblyReference.cache
+C:\_playground\DesignPatterns\Composite\obj\Debug\net6.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\_playground\DesignPatterns\Composite\obj\Debug\net6.0\Composite.AssemblyInfoInputs.cache
+C:\_playground\DesignPatterns\Composite\obj\Debug\net6.0\Composite.AssemblyInfo.cs
+C:\_playground\DesignPatterns\Composite\obj\Debug\net6.0\Composite.csproj.CoreCompileInputs.cache
+C:\_playground\DesignPatterns\Composite\obj\Debug\net6.0\Composite.dll
+C:\_playground\DesignPatterns\Composite\obj\Debug\net6.0\refint\Composite.dll
+C:\_playground\DesignPatterns\Composite\obj\Debug\net6.0\Composite.pdb
+C:\_playground\DesignPatterns\Composite\obj\Debug\net6.0\Composite.genruntimeconfig.cache
+C:\_playground\DesignPatterns\Composite\obj\Debug\net6.0\ref\Composite.dll

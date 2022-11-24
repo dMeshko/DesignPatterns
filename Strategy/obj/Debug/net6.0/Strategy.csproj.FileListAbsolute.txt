@@ -1,0 +1,15 @@
+C:\_playground\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.exe
+C:\_playground\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.deps.json
+C:\_playground\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.runtimeconfig.json
+C:\_playground\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.dll
+C:\_playground\DesignPatterns\Strategy\bin\Debug\net6.0\Strategy.pdb
+C:\_playground\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.csproj.AssemblyReference.cache
+C:\_playground\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\_playground\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfoInputs.cache
+C:\_playground\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfo.cs
+C:\_playground\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.csproj.CoreCompileInputs.cache
+C:\_playground\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.dll
+C:\_playground\DesignPatterns\Strategy\obj\Debug\net6.0\refint\Strategy.dll
+C:\_playground\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.pdb
+C:\_playground\DesignPatterns\Strategy\obj\Debug\net6.0\Strategy.genruntimeconfig.cache
+C:\_playground\DesignPatterns\Strategy\obj\Debug\net6.0\ref\Strategy.dll

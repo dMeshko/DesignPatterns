@@ -1,0 +1,15 @@
+C:\_playground\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.exe
+C:\_playground\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.deps.json
+C:\_playground\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.runtimeconfig.json
+C:\_playground\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.dll
+C:\_playground\DesignPatterns\TemplateMethod\bin\Debug\net6.0\TemplateMethod.pdb
+C:\_playground\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.AssemblyReference.cache
+C:\_playground\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\_playground\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfoInputs.cache
+C:\_playground\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.AssemblyInfo.cs
+C:\_playground\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\_playground\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.dll
+C:\_playground\DesignPatterns\TemplateMethod\obj\Debug\net6.0\refint\TemplateMethod.dll
+C:\_playground\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.pdb
+C:\_playground\DesignPatterns\TemplateMethod\obj\Debug\net6.0\TemplateMethod.genruntimeconfig.cache
+C:\_playground\DesignPatterns\TemplateMethod\obj\Debug\net6.0\ref\TemplateMethod.dll
